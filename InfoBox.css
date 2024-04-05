@@ -1,0 +1,28 @@
+.InfoBox {
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: pink;
+    color:blue;
+  }
+  
+  .InfoBox h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .InfoBox .infoItem {
+    margin-bottom: 10px;
+  }
+  
+  .InfoBox .infoItem label {
+    font-weight: bold;
+  }
+  
+  .InfoBox .infoItem span {
+    margin-left: 10px;
+  }
+  
